@@ -1,7 +1,7 @@
 # PersonalWebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
-#https://woxdak.github.io/personal-website/
+# https://woxdak.github.io/personal-website/
 
 ## Development server
 
